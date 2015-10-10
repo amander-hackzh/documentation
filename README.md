@@ -7,4 +7,4 @@
  [pitch](https://docs.google.com/presentation/d/1TCLCJUBS1jrU34tqRr2eda5hyn4lvAaH0NqrW4eEV0Y/edit?usp=sharing)
 
 ## pitch-video, as GIF
-![Demovideo](https://github.com/hackzurich15-amander/documentation/demo.gif)
+![](https://github.com/hackzurich15-amander/documentation/demo.gif)
